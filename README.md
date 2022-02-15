@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning computer science @ Western university.
 
 <!---
-Hirbod03/Hirbod03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hirbod03/Hirbod03 is a ✨ specicccccal ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
