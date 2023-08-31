@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hirbod03
-- 👀 I’m interested in Machine Learning, AI and Software dev.
+- 👀 I’m interested in Machine Learning, AI and Software development.
 - 🌱 I’m currently learning computer science @ Western university.
 
 <!---
