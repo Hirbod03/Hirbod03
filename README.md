@@ -4,15 +4,17 @@ I'm Hirbod, a fourth-year student majoring in Computer Science at Western Univer
 
 🛠️ My Tech Stack
 
-**Languages:** Java, SQL, MySQL, Python, Javascript/Typescript, HTML/CSS  
-**Frameworks & Libraries:** Angular, Node.js, Express.js, Bootstrap  
-**Tools:** Git, Docker, Flyway, various IDEs  
-**Technologies:** Auth0, AWS, Firebase, Google Cloud, Vercel, GitHub, GitLab, Jira  
+- **Programming Languages:** Java, Python, C/C++, JavaScript, SQL, HTML5/CSS, PHP, R
+- **Frameworks and Libraries:** React, Node.js, Qt
+- **Developer Tools:** Jira, Confluence, Git/BitBucket, Unix/Linux, Postman, Visual Studio, MySQL, LaTeX
 
 👯 Collaboration
 
-I love meeting and connecting with people, so if you're working on an intriguing project or looking for contributors, please don't hesitate to contact me!
+- I enjoy networking and collaborating with others, so if you have an exciting project or need contributors, feel free to reach out to me!
 
 💬 Let's Connect
 
-📫 Email: [shoss2@uwo.ca]
+- 📫 Email: [shoss2@uwo.ca]
+- 🔗 [LinkedIn](https://linkedin.com/in/hirbod03)
+- 💻 [GitHub](https://github.com/hirbod03)
+- 🌐 [Personal Website](https://hirbod.site)
