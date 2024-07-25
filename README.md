@@ -15,5 +15,5 @@ I enjoy networking and collaborating with others. If you have an exciting projec
 ## 💬 Let's Connect
 
 - 📫 Email: [shoss2@uwo.ca](mailto:shoss2@uwo.ca)
-- 🔗 [LinkedIn](https://linkedin.com/in/hirbod03)
-- 🌐 [Personal Website](https://hirbod.site)
+- 🔗 [LinkedIn/Hirbod03](https://linkedin.com/in/hirbod03)
+- 🌐 [Hirbod.site](https://hirbod.site)
