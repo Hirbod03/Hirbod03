@@ -4,7 +4,7 @@ I'm **Hirbod**, a fourth-year Computer Science major at Western University.
 
 ## 🛠️ My Skills
 
-- **Programming Languages:** Java, Python, C/C++, JavaScript, SQL, HTML5/CSS, PHP, R
+- **Programming Languages:** Java, Python, C/C++, JavaScript, SQL, Swift, HTML5/CSS, PHP, R
 - **Frameworks and Libraries:** React, Node.js, Qt
 - **Developer Tools:** Jira, Confluence, Git/BitBucket, Unix/Linux, Postman, Visual Studio, MySQL, LaTeX
 
