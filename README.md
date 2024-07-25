@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @Hirbod03
-- 👀 I’m interested in Machine Learning, AI and Software development.
-- 🌱 I’m currently learning computer science @ Western university.
+Hi there 👋
+I'm Hirbod, a third-year student majoring in Computer Science at Western University.
 
-<!---
-Hirbod03/Hirbod03 is a ✨ specicccccal ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ My Tech Stack
+
+**Languages:** Java, SQL, MySQL, Python, Javascript/Typescript, HTML/CSS  
+**Frameworks & Libraries:** Angular, Node.js, Express.js, Bootstrap  
+**Tools:** Git, Docker, Flyway, various IDEs  
+**Technologies:** Auth0, AWS, Firebase, Google Cloud, Vercel, GitHub, GitLab, Jira  
+
+👯 Collaboration
+
+I love meeting and connecting with people, so if you're working on an intriguing project or looking for contributors, please don't hesitate to contact me!
+
+💬 Let's Connect
+
+📫 Email: [shoss2@uwo.ca]
