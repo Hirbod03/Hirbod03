@@ -1,8 +1,8 @@
-Hi there 👋
+Hello 👋
 
 I'm Hirbod, a fourth-year student majoring in Computer Science at Western University.
 
-🛠️ My Tech Stack
+🛠️ My Skills
 
 - **Programming Languages:** Java, Python, C/C++, JavaScript, SQL, HTML5/CSS, PHP, R
 - **Frameworks and Libraries:** React, Node.js, Qt
