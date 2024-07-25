@@ -16,5 +16,4 @@ I'm Hirbod, a fourth-year student majoring in Computer Science at Western Univer
 
 - 📫 Email: [shoss2@uwo.ca]
 - 🔗 [LinkedIn](https://linkedin.com/in/hirbod03)
-- 💻 [GitHub](https://github.com/hirbod03)
 - 🌐 [Personal Website](https://hirbod.site)
