@@ -1,5 +1,6 @@
 Hi there 👋
-I'm Hirbod, a third-year student majoring in Computer Science at Western University.
+
+I'm Hirbod, a fourth-year student majoring in Computer Science at Western University.
 
 🛠️ My Tech Stack
 
