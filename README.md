@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available on [my website](https://hirbod.site) and github
 
-- 💬 Ask me about **OOP, python, javascript, react, node.js**
+- 💬 Ask me about **OOP, python, javascript or HTML/CSS**
 
 - 📫 Reach me at **shoss2@uwo.ca**
 
