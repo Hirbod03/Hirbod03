@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 👨‍💻 All of my projects are available at [hirbod.site](hirbod.site)
+- 👨‍💻 All of my projects are available on [my website](hirbod.site)
 
 - 💬 Ask me about **OOP, python, javascript, react, node.js**
 
 - 📫 Reach me at **shoss2@uwo.ca**
 
-- 📄 Find my resume at [https://hirbod.site/assets/cv-CfjLmE5h.pdf](https://hirbod.site/assets/cv-CfjLmE5h.pdf)
+- 📄 Find my resume [here](https://hirbod.site/assets/cv-CfjLmE5h.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
