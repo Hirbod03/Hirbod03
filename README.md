@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 👨‍💻 All of my projects are available on [my website](hirbod.site)
+- 👨‍💻 All of my projects are available on [my website](https://hirbod.site) and github
 
 - 💬 Ask me about **OOP, python, javascript, react, node.js**
 
