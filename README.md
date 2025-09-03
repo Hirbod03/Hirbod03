@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hirbod</h1>
-<h3 align="center">Software Developer | CS Student @ Western University</h3>
+<h3 align="center">Software Developer | Western University Alumni</h3>
 
 ## 🚀 About Me  
 - 🎓 Computer Science major at Western University (graduated June 2025)  
